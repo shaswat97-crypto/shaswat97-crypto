@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shaswat97-crypto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C and Embedded C
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Shashwat Shashank
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on projects based on Java and Javascript
 - 📫 How to reach me shaswat97@gmail.com
 
 <!---
